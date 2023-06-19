@@ -40,7 +40,7 @@ function getEmailName(email) {
   <nav>
     <div class="navbar">
       <div class="logo">
-        <router-link to="#"><i style="font-size: 20px;">Cheaptalk.com</i></router-link>
+        <router-link to="#"><i style="font-size: 20px;">Cheaptalk</i></router-link>
       </div>
       <div class="menu">
         <ul>

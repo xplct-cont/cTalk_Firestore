@@ -2,7 +2,6 @@
 import { ref, onMounted, computed } from "vue";
 import { db } from "../firebase/init.js";
 import { collection, getDocs } from "firebase/firestore";
-import Spinner from "../components/Spinner.vue";
 import { useRouter } from "vue-router";
 import { Icon } from "@iconify/vue";
 
